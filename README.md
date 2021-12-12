@@ -31,14 +31,14 @@ Let's take a look at our results:
 - **Recall** = measures our confidence that the model correctly predicted a negative prediction.
 
 
-Machine Learning Model 1 - Original Data:
+### Machine Learning Model 1 - Original Data:
 ![original](images/original_report.jpg)
   * Balanced Accuracy - At 95%, the balanced accuracy is fairly high.
   * Precision - Healthy loans 100% which means predicted data for healthy loans is accurate.  However, high-risk loans is at 85% accuracy.
   * Recall - The healthy loans 99% recall accuracy is also high with high-risk loans at 91%.
 
 
-Machine Learning Model 2 - Over Sampler:
+### Machine Learning Model 2 - Over Sampler:
 ![imbalanced](images/imbalanced_report.jpg)
   * Balanced Accuracy - Using the resampling-oversampler method, the balanced accuracy increases from 95% to 99%.
   * Precision - The healthy loans stays at 100%, while high-risk loans slightly decrease to 84%.
