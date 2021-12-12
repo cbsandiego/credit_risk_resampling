@@ -5,7 +5,7 @@
 
 The following machine-learning model will allow users to use various techniques to train and evaluate models with imbalanced classes.  From a dataset of historical lending activity, we will build a model that will help us identify healthy loans vs. high-risk loans.  Healthy loans typically outnumber risk loans, so we will create a `Logicistic Regression` model with our original data and compare that with a resampled training data that uses `RandomOverSampler`.
 
-    > **[Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)** - uses a categorical dependent variable to help predict an outcome from a sample of data it's provided.
+  > **[Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)** - uses a categorical dependent variable to help predict an outcome from a sample of data it's provided.
 
 We will use the following financial information:
 
