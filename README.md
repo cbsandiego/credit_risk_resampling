@@ -1,4 +1,5 @@
-# Module 12 Report Template
+# Credit Risk Analysis Report
+![machinelearning](images/credit_report.jpg)
 
 ## Overview of the Analysis
 
