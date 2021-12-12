@@ -25,6 +25,10 @@ To help us test the accuracy of our prediction, we will use `LogisticRegression`
 ## Results
 
 Let's take a look at our results
+**Accuracy** = estimates the accuracy of the model.
+**Precision** = measures our confidence that the model correctly made the positive predictions.
+**Recall** = measures our confidence that the model correctly predicted a negative prediction.
+
 
 * Machine Learning Model 1 - Original Data:
 ![original](images/original_report.jpg)
